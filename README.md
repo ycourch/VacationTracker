@@ -1,2 +1,2 @@
 # VacationTracker
-This is part of my capstone project. 
+This repository and website was a part of my capstone project for WGU's software engineering bachelor's degree program. This page contains a link to an APK file of the Android mobile application I developed for the assessment of the capstone course. This application is a vacation tracking application that allows users to create, edit, and delete vacation events, as well as create excursions for multi-day vacations. Users are able to modify, edit, and delete their data. A sign on feature is included for application security, and the project also incorporates use of polymorphism and inheritance as part of the assessment requirements. Users are also able to generate an in-app report of their data to view. 
